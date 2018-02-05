@@ -32,7 +32,8 @@ until finished
 
 ## Built With
 
-* [jQuery]() - Javascript Library
+* [jQuery](http://jquery.com/ "jQuery") - The Write Less, Do More, JavaScript Library
+* [PHP](http://php.net/ "PHP is a popular general-purpose scripting language that is especially suited to web development.") - The backend scripting 
 
 
 ## Authors
