@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 To get this running, you need a web server running on the computer you are streaming from. You can get a pre-packaged server below if you don't know how to install and set up [Apache](http://apache.org/ "Apache Web Server") and [PHP](http://php.net/ "PHP is a popular general-purpose scripting language that is especially suited to web development.").
 
-- [XAMPP](https://www.apachefriends.org/index.html "XAMPP") Apache, MariaDB, PHP, Perl
-- [EasyPHP](http://www.easyphp.org/ "EasyPHP") PHP, Apache, MySQL
+* [XAMPP](https://www.apachefriends.org/index.html "XAMPP") Apache, MariaDB, PHP, Perl
+* [EasyPHP](http://www.easyphp.org/ "EasyPHP") PHP, Apache, MySQL
 
 
 ### Installing
@@ -34,7 +34,8 @@ Another step
 
 * [jQuery](http://jquery.com/ "jQuery") - The Write Less, Do More, JavaScript Library
 * [PHP](http://php.net/ "PHP is a popular general-purpose scripting language that is especially suited to web development.") - The backend scripting 
-
+* [CSS3 Animate it](https://github.com/kriegar/css3-animate-it "CSS3 Animate it By Jack McCourt") - Visual Effects
+* [Weather.css](https://github.com/moqmar/weather.css "Weather.css by Moritz Marquardt") - Weather Effects
 
 ## Authors
 
