@@ -9,26 +9,23 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-To get this running, you need a web server running on the computer you are streaming from. You can get a server that works on Windows at Apache Friends
-
+To get this running, you need a web server running on the computer you are streaming from. You can get a server blah blah
 ```
-Give examples
+Give the example
 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
+A step by step series of examples that tell you how to get it running.....
 
 ```
-Give the example
+Step 1
 ```
 
 And repeat
 
 ```
-until finished
+Another step
 ```
 
 
