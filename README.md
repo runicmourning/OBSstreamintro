@@ -24,10 +24,29 @@ A step by step series of examples that tell you how to get it running.....
 Step 1
 ```
 
-And repeat 
-
+#### Step 2
 ```
-Another step
+Step 2
+```
+#### Step 3
+```
+Step 3
+```
+#### Step 4
+```
+Step 4
+```
+#### Step 5
+```
+Step 5
+```
+#### Step 6
+```
+Step 6
+```
+#### Step 7
+```
+Step 7
 ```
 
 
