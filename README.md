@@ -12,8 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 To get this running, you need a web server running on the computer you are streaming from. You can get a pre-packaged server below if you don't know how to install and set up [Apache](http://apache.org/ "Apache Web Server") and [PHP](http://php.net/ "PHP is a popular general-purpose scripting language that is especially suited to web development.").
 
 ```
-- [XAMPP](https://www.apachefriends.org/index.html "XAMPP") - Apache + MariaDB + PHP + Perl
-- [EasyPHP](http://www.easyphp.org/ "EasyPHP") - PHP, Apache, MySQL
+- [XAMPP](https://www.apachefriends.org/index.html "XAMPP") Apache + MariaDB + PHP + Perl
+- [EasyPHP](http://www.easyphp.org/ "EasyPHP") PHP, Apache, MySQL
 ```
 
 ### Installing
