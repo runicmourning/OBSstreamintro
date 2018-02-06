@@ -39,12 +39,8 @@ Another step
 
 ## Authors
 
-* **Scott Hough** - *Initial work* - [The Vintage Gamers](https://www.thevintagegamers.com)
+* **Scott Hough**  - [The Vintage Gamers](https://www.thevintagegamers.com)
 
-
-## License
-
-Blah Blah Blah
 
 ## Acknowledgments
 
