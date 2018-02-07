@@ -94,7 +94,7 @@ else
 
 
 <div class="animatedParent" style="margin: auto; height; 360px; width:640px;">
-<img class="animated fadeInDown" src="t-padlogo.png" style="margin-top: 200px;">
+<img class="animated fadeInDown" src="logo.png" style="margin-top: 200px;">
 </div>
 
 <div class="start"><span class="emergency">Press Start</span></div>
