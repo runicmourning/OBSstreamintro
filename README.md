@@ -17,7 +17,7 @@ To get this running, you need a web server running on the computer you are strea
 
 ### Installing
 
-A step by step series of examples that tell you how to get it running.....
+The set up is pretty simple. 
 
 #### Step 1 - Install the Server
 Install the server software. Refer to the documentation for the package you downloaded. If you're wanting to install Apache and PHP from scratch, there are many tutorials online.
