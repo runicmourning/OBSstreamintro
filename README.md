@@ -29,7 +29,7 @@ The way I do it is remove all files in the www directory of the server because I
 The next step is to open this in a browser to make sure it works. Navigate to localhost by entering [http://127.0.0.1/title](http://127.0.0.1/title "Localhost") in to your browser. It should work but there is no sound. We will get to that later. 
 
 #### Step 4 - Add some background images
-Next you'll want to add some background images to the *bg/* directory. You will want to make sure they are 1920x1080 in resolution to ensure they are HD and will fit the way you want them.
+Next you'll want to add some background images to the *bg/* directory. You will want to make sure they are 1920x1080 in resolution to ensure they are HD and will fit the way you want them. If you want the weather effects, you will need to add ***-rain***, ***-snow*** or ***-snowrain*** to the end of the file name. This will tell the script that the background is suitable for rain, snow or both weather effects. 
 
 #### Step 5 - Set the length of time the background will be visable. 
 In the *index.php* file, you will want to locate the following line:
