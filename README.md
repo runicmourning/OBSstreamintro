@@ -39,7 +39,7 @@ In the *index.php* file, you will want to locate the following line:
 Now to set the length the background will be visible change the number 15 to the number of seconds you want the background to show. Ideally, this will be the length of the audio clips you choose to use for the music. 
 
 #### Step 6 - Add some music 
-Drop your audio files in the bgmusic/ folder. They can be in MP3 of Wav file format.
+Drop your audio files in the bgmusic/ folder. They can be in MP3 or Wav file format.
 
 #### Step 7 - Configure OBS to show the background
 In OBS create a new scene for the intro. This will be used exclusively for the intro and nothing else. Now, add a new BrowserSource and enter *http://127.0.0.1/title* in the box. Set the width to 1920 and the height to 1080. You will want toput a checkbox in *shutdown source when not visible* and Refresh browser when scene becomes active.
