@@ -3,7 +3,7 @@
 This will help you create a dynamic intro screen for your stream. It will show a random background and play random music. It has rain or snow that can be displayed on the intro. This intro is used on videos on <a href="http://www.TheVintageGamers.com" title="The Vintage Gamers">The Vintage Gamers</a> videos on  <a href="https://gaming.youtube.com/TheVintageGamersCom" title="The Vintage Gamers YouTube">YouTube</a> and <a href="http://www.twitch.tv/TheVintageGamers" title="The Vintage Gamers Twitch">Twitch</a>.  
 
 <div style="text-align: center;">
-[![Pic](https://raw.githubusercontent.com/runicmourning/OBSstreamintro/master/docs/intro.png)](https://www.youtube.com/watch?v=ZvLCwGX6wkU "Intro Video Example")<a href="https://github.com/runicmourning/OBSstreamintro/archive/master.zip" title="OBS Stream Intro">Download</a></div>
+<a href="https://www.youtube.com/watch?v=ZvLCwGX6wkU" "Intro Video Example"><img src="https://raw.githubusercontent.com/runicmourning/OBSstreamintro/master/docs/intro.png" style="width: 100%;"></a><br><a href="https://github.com/runicmourning/OBSstreamintro/archive/master.zip" title="OBS Stream Intro">Download</a></div>
 
 
 ## Getting Started
