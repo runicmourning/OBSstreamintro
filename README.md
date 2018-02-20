@@ -3,7 +3,7 @@ This will help you create a dynamic intro screen for your stream. It will show a
 
 <div style="text-align: center;">Demo | <a href="https://github.com/runicmourning/OBSstreamintro/archive/master.zip" title="OBS Stream Intro">Download</a></div>
 
-[![Pic](https://raw.githubusercontent.com/runicmourning/OBSstreamintro/master/intro.png)](https://www.youtube.com/watch?v=ZvLCwGX6wkU "Intro Video Example")
+[![Pic](https://raw.githubusercontent.com/runicmourning/OBSstreamintro/master/docs/intro.png)](https://www.youtube.com/watch?v=ZvLCwGX6wkU "Intro Video Example")
 
 ## Getting Started
 
