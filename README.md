@@ -1,4 +1,4 @@
-## OBS Stream Intro [![Github All Releases](https://img.shields.io/github/downloads/runicmourning/OBSstreamintro/total.svg)]()
+## OBS Stream Intro [![Github All Releases](https://img.shields.io/github/downloads/tabler/tabler/total.svg)]()
 
 This will help you create a dynamic intro screen for your stream. It will show a random background and play random music. It has rain or snow that can be displayed on the intro. This intro is used on videos on <a href="http://www.TheVintageGamers.com" title="The Vintage Gamers">The Vintage Gamers</a> videos on  <a href="https://gaming.youtube.com/TheVintageGamersCom" title="The Vintage Gamers YouTube">YouTube</a> and <a href="http://www.twitch.tv/TheVintageGamers" title="The Vintage Gamers Twitch">Twitch</a>.  
 
