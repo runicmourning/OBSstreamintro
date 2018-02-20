@@ -66,5 +66,5 @@ Switch to the scene in OBS and watch it play out. When it goes black, the intro 
 
 ## Copyright and license
 
-Code and documentation copyright 2018 the [Scott Hough](https://www.thevintagegamers.com). Code released under the [MIT License](https://github.com/runicmourning/OBSstreamintro/blob/master/LICENSE).
+Code and documentation &copy; 2018 [Scott Hough](https://www.thevintagegamers.com). Code released under the [MIT License](https://github.com/runicmourning/OBSstreamintro/blob/master/LICENSE).
 
