@@ -2,9 +2,9 @@
 
 This will help you create a dynamic intro screen for your stream. It will show a random background and play random music. It has rain or snow that can be displayed on the intro. This intro is used on videos on <a href="http://www.TheVintageGamers.com" title="The Vintage Gamers">The Vintage Gamers</a> videos on  <a href="https://gaming.youtube.com/TheVintageGamersCom" title="The Vintage Gamers YouTube">YouTube</a> and <a href="http://www.twitch.tv/TheVintageGamers" title="The Vintage Gamers Twitch">Twitch</a>.  
 
-<div style="text-align: center;"><a href="https://github.com/runicmourning/OBSstreamintro/archive/master.zip" title="OBS Stream Intro">Download</a></div>
+<div style="text-align: center;">
+[![Pic](https://raw.githubusercontent.com/runicmourning/OBSstreamintro/master/docs/intro.png)](https://www.youtube.com/watch?v=ZvLCwGX6wkU "Intro Video Example")<a href="https://github.com/runicmourning/OBSstreamintro/archive/master.zip" title="OBS Stream Intro">Download</a></div>
 
-[![Pic](https://raw.githubusercontent.com/runicmourning/OBSstreamintro/master/docs/intro.png)](https://www.youtube.com/watch?v=ZvLCwGX6wkU "Intro Video Example")
 
 ## Getting Started
 
@@ -64,17 +64,7 @@ Switch to the scene in OBS and watch it play out. When it goes black, the intro 
 
 * **Scott Hough**  - [The Vintage Gamers](https://www.thevintagegamers.com)
 
-
-## Acknowledgments
-
-* Samuel Floyd provided excellent negative criticism
-
 ## Copyright and license
 
 Code and documentation copyright 2018 the [Scott Hough](https://www.thevintagegamers.com). Code released under the [MIT License](https://github.com/runicmourning/OBSstreamintro/blob/master/LICENSE).
 
-## Browser Support
-
-![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![IE](https://raw.github.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png)
---- | --- | --- | --- | --- | --- |
-Latest ✔ | Latest ✔ | Latest ✔ | 11+ ✔ | 9.1+ ✔ | Latest ✔ |
