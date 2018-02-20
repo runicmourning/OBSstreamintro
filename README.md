@@ -1,9 +1,9 @@
-## OBS Stream Intro [![Github All Releases](https://img.shields.io/github/downloads/tabler/tabler/total.svg)]()
+## [OBS Stream Intro](https://github.com/runicmourning/OBSstreamintro/archive/master.zip) 
 
-This will help you create a dynamic intro screen for your stream. It will show a random background and play random music. It has rain or snow that can be displayed on the intro. This intro is used on videos on <a href="http://www.TheVintageGamers.com" title="The Vintage Gamers">The Vintage Gamers</a> videos on  <a href="https://gaming.youtube.com/TheVintageGamersCom" title="The Vintage Gamers YouTube">YouTube</a> and <a href="http://www.twitch.tv/TheVintageGamers" title="The Vintage Gamers Twitch">Twitch</a>.  
+This will help you create a dynamic intro screen for your stream. It will show a random background and play random music. It has rain or snow that can be displayed on the intro. This intro is used on videos on The Vintage Gamers videos on YouTube and Twitch.  
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=ZvLCwGX6wkU" "Intro Video Example"><img src="https://raw.githubusercontent.com/runicmourning/OBSstreamintro/master/docs/intro.png" style="width: 100%;"></a><br><a href="https://github.com/runicmourning/OBSstreamintro/archive/master.zip" title="OBS Stream Intro">Download</a></p>
+[![Screenshot](https://raw.githubusercontent.com/runicmourning/OBSstreamintro/master/docs/intro.png)](https://www.youtube.com/watch?v=ZvLCwGX6wkU  "Screenshot")
+
 
 
 ## Getting Started
@@ -67,4 +67,3 @@ Switch to the scene in OBS and watch it play out. When it goes black, the intro 
 ## Copyright and license
 
 Code and documentation &copy; 2018 [Scott Hough](https://www.thevintagegamers.com). Code released under the [MIT License](https://github.com/runicmourning/OBSstreamintro/blob/master/LICENSE).
-
